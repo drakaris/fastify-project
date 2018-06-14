@@ -1,0 +1,19 @@
+{
+  "name": "fastify-project",
+  "version": "1.0.0",
+  "description": "Sample Fastifty project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drakaris/fastify-project.git"
+  },
+  "author": "Arjhun Srinivas <arjhun.s@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drakaris/fastify-project/issues"
+  },
+  "homepage": "https://github.com/drakaris/fastify-project#readme"
+}
